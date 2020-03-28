@@ -1,4 +1,4 @@
-# COVID_19_xray_classification
+# COVID-19 X-Ray classification
 
 1. Please find the dataset here: https://drive.google.com/open?id=1odxJF4kyHEtBqhkvz3iXpV3iQK34m6z0
 
